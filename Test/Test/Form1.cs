@@ -38,7 +38,7 @@ namespace Test
 			if (me.Clicks > 1)
 				this.label1.Text = "This is a double click";
 			else
-				this.label1.Text = "Hello World From Docker with X";
+				this.label1.Text = "Hello World From Torizon Container with Mono";
 		}
 	}
 }
